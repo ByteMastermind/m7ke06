@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m7ke06
-- 👀 I’m an Information Security student
+- 👀 I’m an Cyber Security student
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: michal.benes10@gmail.com
 
